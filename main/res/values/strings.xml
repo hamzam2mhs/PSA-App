@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pakistani Students Association</string>
+    <string name="welcome_letter">Welcome to University of Manitoba Pakistani Students Association</string>
+    <string name="intro_text">The University Of Manitoba\'s Pakistan Students Association aims to provide an environment of mutual understanding to both, Pakistanis and other elasticities, at U of M. PSA is a non-political, non-religious students organization which aims at providing common platform to all ethnicities in order to raise international awareness. Our purest motive is to organize socials, programs, and activities in collaboration with student groups of diverse ethnicities at U of M to promote cross cultural understanding and provide the campus community an opportunity to meet others. Anyone and everyone interested in being a part of PSA is more than welcome to join the group!</string>
+    <string name="todo">TODO</string>
+    <string name="important_links">IMPORTANT LINKS</string>
+
+    <string name="linkToForm">Fill out this
+    <a href="https://bit.ly/34P81h2">Student Settlement Form</a> form if you or someone that you know who is joining UoM and assistance.
+</string>
+
+    <string name="instaLink">Follow Us On
+        <a href="https://www.instagram.com/uofm_psa/?igshid=phed7syhfdg3">Instagram</a>
+    </string>
+
+    <string name="devLink">Developed By
+        <a href="https://www.instagram.com/hamza.mhs/">Hamza</a>
+    </string>
+
+    <string name="facebookLink"> Connect with us on
+        <a href="https://www.facebook.com/umanitobapsa/">Facebook</a>
+    </string>
+
+</resources>
